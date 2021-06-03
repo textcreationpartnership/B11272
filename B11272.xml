@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epitaphe vpon the death [of] Mayster Iohn Viron preacher</title>
+            <author>Awdelay, John, fl. 1559-1577.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11272</idno><idno type="EEBO-CITATION">99856879</idno>
+  <idno type="VID">176422</idno>
+  <idno type="EEBO-PROQUEST">2240908423</idno>
+  <idno type="STC">STC 992</idno>
+  <idno type="STC">ESTC S121709</idno>
+  <idno type="STC">EBB 32082</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99856879e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176422)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 172:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epitaphe vpon the death [of] Mayster Iohn Viron preacher</title>
+                  <author>Awdelay, John, fl. 1559-1577.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By Iohn Awdely, dwellyng in lytle Britayne streete by great Saint Bartelmewes,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1563?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Quod Iohn Awdelie.</note>
+                  <note>Verse - "Thou soule whych on Christes brest, doest rest as Iohn loued,".</note>
+                  <note>Véron died in 1563.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Mutilated, with loss of part of border and "of" in title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Véron, John, d. 1563 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:176422:1"/>
+            <head>¶ An Epitaphe vpon the death Mayster <hi>Iohn Viron</hi> Preacher.</head>
+            <l>
+               <seg rend="decorInit">T</seg>Hou soule whych on Christes brest, doest rest as <hi>Iohn</hi> loued,</l>
+            <l>And corps whych art lyke hys also, wyth earth en <hi>Viron</hi> ed:</l>
+            <l>Full ioyfull mayst thou be, but we (alas) may wayle,</l>
+            <l>Thy presence to forgo so soone, thy voyce so soone to fayle.</l>
+            <l>But oh thy payne and toyle, in God thee prayse we shall,</l>
+            <l>That thou ensample now mayst be, vnto thy fellowes all.</l>
+            <l>Whych ceasedst not at morne, at noone, nor yet at nyght,</l>
+            <l>To preache Gods woorde, to beate downe vyce, and to put synne to flyght.</l>
+            <l>Thyne natiue countrye thou, regardedst not a whyt,</l>
+            <l>When God dyd call thee foorth to preache, but out thou wentst wyth it.</l>
+            <l>Whych when in thyne owne toung, thou mightst not preache in Fraunce,</l>
+            <l>Yet foorth thou wentst, and by God led, to vs wast brought by chaunce.</l>
+            <l>Where thou wyth paynefull watche, dydst learne our Englysh tounge,</l>
+            <l>And wyth as paynefull diligence, dydst preache Gods truth among.</l>
+            <l>No Tyraunt, nor fierce lawes, coulde make thee vs forsake:</l>
+            <l>But in the mydst of ragyng stormes, wyth Gods Sayntes part dydst take.</l>
+            <l>And synce thou hast well shewde, whose seruaunt thou hast bene,</l>
+            <l>In preaching and in writyng both, whych to Gods prayse is sene.</l>
+            <l>But now ho shall lament? or who may ioy now flee?</l>
+            <l>Euen euery state from top to toe, both hygh and low degree.</l>
+            <l>The poore may wayle hys mysse, whych wyth both tounge and hand,</l>
+            <l>Dyd well refreshe theyr weary state, whych often they in stand.</l>
+            <l>The ryche may mone wyth them, hys barkyng voyce to want,</l>
+            <l>That kept from them that karking beast, whych rychesse dayly haunt.</l>
+            <l>And though hys lyke yet lyue, and many suche there be:</l>
+            <l>Yet shall we mysse hym in our lyfe, and nombers more then he.</l>
+            <l>But oh London, London, thou oughtest chiefe to wayle,</l>
+            <l>The people suche, and vyces great, may at hys want sore quayle.</l>
+            <l>For twyse so many as there be, and myllions lyke to hym,</l>
+            <l>Were not sufficient to draw backe, thy people from theyr synne.</l>
+            <l>But shall I shewe the thankes, whych in thee he hath got?</l>
+            <l>Oh London, London, Sodome was, not so yll vnto Lot.</l>
+            <l>His paynes deserued prayse, but some in thee hym gaue:</l>
+            <l>Obprobrious woordes, and sclaunders vyle, euen to hys bodyes graue.</l>
+            <l>But what for that they thus, haue vsed hym so yll:</l>
+            <l>Hys vertues were thereby more knowen, in spight of their yll wyll?</l>
+            <l>And eke theyr lying blastes, are so layde in their face:</l>
+            <l>That they may shame and weepe thereat, if they haue any grace.</l>
+            <l>But now thou flocke and folde, whych he in lyfe dyd guyde:</l>
+            <l>What cause hast thou to wayle hys want, and count thee wo betyde?</l>
+            <l>Whych hadst a Shepheard good, that dyd hys duty ryght:</l>
+            <l>In sauing Rammes from daunger neare, and helpyng Lambes to myght.</l>
+            <l>From pasture vnto pasture, he dyd thee bryng to feede,</l>
+            <l>And neuer ceased to make thee from fayth to fayth proceede.</l>
+            <l>There restes no more for you, hys paynes now to requite:</l>
+            <l>But so to walke as he you taught, and speake of hym the ryght.</l>
+            <l>And thou O England now, to ende and mone wyth theese:</l>
+            <l>Lament thou mayst also wyth vs, a woorke man thus to leese.</l>
+            <l>Thy haruest is so great, and Laborers so fewe,</l>
+            <l>Yea of those fewe some Loyterers, full yll themselues do shewe.</l>
+            <l>And let vs here by take, a warning to vs all,</l>
+            <l>That seing haruest is so great, and woorkemens nomber small:</l>
+            <l>Our fruit must needes be lost our selues to famishe brought,</l>
+            <l>Our Land layde lyke a wyldernes, and brought at length to nought.</l>
+            <l>But thou O Lorde and God, of this our haruest great,</l>
+            <l>Spare thou our woorkemen, and more send, that labour wil with sweate.</l>
+            <l>That as we mone for <hi>Iohn,</hi> en <hi>Viron</hi> ed by death,</l>
+            <l>Thou wylt vs glad wyth many a Paule, enspirde with heauenly breath.</l>
+            <trailer>Finis.</trailer>
+            <closer>
+               <signed>Quod Iohn Awdelie.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London / by Iohn Awdely, dwellyng in lytle Britayne streete by great Saint Bartelmewes.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
